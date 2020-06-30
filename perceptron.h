@@ -3,7 +3,6 @@
 #pragma once
 #include "neuron.h"
 #include "differential.h"
-#include <set>
 
 namespace rbnns
 {
